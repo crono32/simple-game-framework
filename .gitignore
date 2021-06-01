@@ -1,0 +1,7 @@
+.vs/
+build/
+intermediate/
+SimpleGameFramework.sln
+SimpleGameFramework.vcxproj
+SimpleGameFramework.vcxproj.filters
+SimpleGameFramework.vcxproj.user
